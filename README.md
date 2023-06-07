@@ -1,6 +1,14 @@
-# ProjectName
+# Pesronal Portfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+
+This project only has UI, no backend & database. In this project, I have created 
+1. Responsive Directive : will make the hosting component fully responsive.
+2. Baner Component : Displays name & profile photo
+3. Education Component : Displays education list
+4. Work Experience Component : Displays list of work experiences
+
+# SKills : HTML, CSS, Angular, TypeScript 
 
 ## Development server
 
