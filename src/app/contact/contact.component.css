@@ -28,9 +28,26 @@ ul {
     background-color: rgba(255, 255, 255, 0.2);
 }
 
+.linkedin-icon {
+    margin-top: 10px;
+    width: 60px; 
+    height: 60px; 
+}
+
+.github-icon {
+    margin-top: 10px;
+    width: 60px; 
+    height: 60px; 
+}
+
 .contact-info li {
     height: 30px;
     font-size: 1.2rem;
+}
+
+.contact-info li a{
+   text-decoration: none;
+   color: white;
 }
 
 /* PC */

@@ -9,21 +9,21 @@ export class PersonalInformationComponent implements OnInit {
   myData: string[][] = [
     ['Name', 'Yogesh Borole'],
     ['DOB', '11-06-1998'],
-    ['Work Exp', '1.7 Years'],
+    ['Work Exp', '1.9 Years'],
     ['Education', 'Bachelor of Engineering (BE) (2021)'],
     ['Interests', 'Cricket, Solving Coding Challanges'],
     ['Location', 'Pune, Maharashtra, India']
   ];
 
   aboutMe: string[] = [
-    'Hi, I am a Software Engineer with 1.7 years of experience in software industry.',
-    'Worked as a Software Test Engineer in Capgemini for various testing technologies (Angular UI Protractor , API, End To End, Jest, PyTest & Selenium Testing).',
-    'Seeking new opportunities in Software Testing (both Manual and Automation) in software development industry to utilize my expertise in delivering cutting-edge projects.',
-    'Proficient in leveraging Angular UI, JavaScript end to end Automation skills to contribute to the success of innovative teams, Always eager to learn new technologies.',
-    'Currently, working as Associate Software Engineer at Capgemini.',
+    'Hi, I have been working as Senior Software Engineer for more than 1.9 years at Capgemini - Pune, Maharashtra.',
+    'As a Senior Software Engineer at Capgemini, I develop and maintain robust applications using a skillset encompassing Angular, JavaScript, HTML5, CSS and implement efficient CRUD operations in REST APIs. My work thrives within dynamic, fast-paced environments, where I collaborate seamlessly with highly skilled developers, clients, and stakeholders to deliver top-tier solutions.',
+    'Expertise in UI development, troubleshooting, and testing using Jest, Protractor, Selenium, API and web inspectors. I have also earned multiple certifications, such as Angular - The Complete Guide, Programming with JavaScript, Protractor(Angular Testing) Framework. I am passionate about learning new technologies and improving my existing skills, and I aim to create user-friendly and innovative applications that solve real-world problems.',
+    'Seeking new opportunities as a Software Tester & Developer to utilize expertise in delivering cutting-edge projects.',
+    'Proficient in leveraging Angular developement, JavaScript end to end Automation skills to contribute to the success of innovative teams, Always eager to learn new technologies.',
   ];
 
-  constructor() {}
+  constructor() { }
 
-  ngOnInit(): void {}
+  ngOnInit(): void { }
 }

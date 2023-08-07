@@ -10,13 +10,13 @@ export class EducationComponent implements OnInit {
   educationList: Education[] = [
     {
       institute: "Pune University (SPPU)",
-      course: 'BE Electrical Engineering',
+      course: 'Bachelor of Engineering',
       duration: '2018-2021',
       score: '76.40%',
     },
     {
       institute: 'MSBTE',
-      course: 'Diploma in Electrical Engineering',
+      course: 'Diploma in Engineering',
       duration: '2016-2018',
       score: '72.55%',
     },

@@ -16,6 +16,11 @@ export class SkillsComponent implements OnInit {
     {
       name: 'TypeScript',
       level: 'Expert',
+      rating: 80,
+    },
+    {
+      name: 'Angular',
+      level: 'Expert',
       rating: 85,
     },
     {
@@ -40,27 +45,27 @@ export class SkillsComponent implements OnInit {
     },
     {
       name: 'Java',
-      level: 'Intermidiate',
+      level: 'Intermediate',
       rating: 70,
     },
     {
       name: 'HTML, CSS, JS',
-      level: 'Intermidiate',
+      level: 'Intermediate',
       rating: 70,
     },
     {
-      name: 'Angular',
-      level: 'Intermidiate',
-      rating: 60,
-    },
-    {
       name: 'AWS',
-      level: 'Intermidiate',
+      level: 'Intermediate',
       rating: 75,
     },
     {
       name: 'Git',
-      level: 'Intermidiate',
+      level: 'Intermediate',
+      rating: 75,
+    },
+    {
+      name: 'NodeJS',
+      level: 'Intermediate',
       rating: 75,
     }
   ];

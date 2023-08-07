@@ -9,12 +9,20 @@ import { WorkExperience } from '../models/models';
 export class WorkExperienceComponent implements OnInit {
   workExpList: WorkExperience[] = [
     {
-      role: 'Associate Software Engineer',
+      role: 'Senior Software Engineer',
       company: 'Capgemini',
       duration: 'Dec 2021 - Present',
       description: [
-        'Worked with Vmware Project Team to Protractor & Jest Automation ',
-        'Worked on various technologies : (Angular, JavaScript, TypeScript, Protractor)',
+        'Developed user-friendly applications using Angular, JavaScript, & AWS',
+        'Worked with Velocloud Project Team to drive Protractor & Jest Automation',
+        'Automated API & UI tests, review codes & provided feedback to peers',
+        'Development bugs validation & Defect Fixes',
+        'Automate test cases for VCO features covering UI, API, Workflow areas',
+        'Angular UI test automation using Protractor',
+        'Script Optimisation',
+        'Regression Duty',
+        'Test Plan Preparation',
+        'Feature Testing'
       ],
     },
   ];

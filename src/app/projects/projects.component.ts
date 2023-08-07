@@ -12,8 +12,10 @@ export class ProjectsComponent implements OnInit {
       title: 'Velocloud (Client : Capgemini)',
       technologies: 'Angular, TypeScript, Protractor, Jest, NodeJs, HTML, Jenkins, LXC, UI Bug Fixing',
       description: [
+        'Develop and maintain robust applications using Angular, JavaScript, HTML5, and CSS, and implement efficient CRUD operations in REST APIs.',
         'Spearheaded comprehensive end-to-end tests using Protractor and Jest, ensuring robust validation of critical functionalities, resulting in improved software reliability.',
         'Experience in Automation as well as manual testing (Test Case Design, Test preparation, Test data collection and Test execution)',
+        'Expertise in DevOps tools like GitLab, GitHub, Maven, Jenkins, Docker, Slack, AWS(EC2), LXC, Selenium, ServiceNow, Gitlab CI/CD, Confluence & Bug Reporting Tools like JIRA & Issue Manager.',
         'Retesting defect fixes on each release build.',
         'Designed and developed user-friendly, responsive web interfaces with HTML and CSS, adhering to accessibility and usability standards, enhancing user experience.',
         'Mentored and coached junior developers, imparting best practices in Angular, Protractor, Jest, HTML, CSS, AWS, and Jenkins, significantly improving team productivity and code quality.',
